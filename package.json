@@ -32,7 +32,7 @@
     "@types/node": "^10.12.30",
     "tslint": "^5.13.1",
     "typescript": "^3.3.3333",
-    "@intuit/judo": "0.0.15"
+    "@intuit/judo": "0.0.16"
   },
   "repository": {
     "type": "git",
